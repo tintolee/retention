@@ -1,0 +1,15 @@
+
+.container{
+    display: flex;
+    margin-top: 60px;
+}
+.gfo{
+    margin-left: 200px;
+}
+
+.fam{
+    margin-left: 140px;
+}
+.media{
+    margin-left: 50px;
+}

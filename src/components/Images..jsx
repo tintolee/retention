@@ -1,0 +1,115 @@
+export const ImageData=[
+  {
+    id:'1',
+    image:'https://i.ibb.co/XFCLThm/banana.jpg"',
+    name:'banana',
+    details:'A banana is an elongated, edible fruit – botanically a berry – produced by several kinds of large herbaceous flowering plants in the genus Musa. In some countries, bananas used for cooking may be called "plantains", distinguishing them from dessert bananas'
+  },
+  {
+    id:'6',
+    image:'https://i.ibb.co/HBjTLks/istockphoto-184276818-612x612.jpg',
+    name:'apple',
+    details:'An apple is an edible fruit produced by an apple tree (Malus domestica). Apple trees are cultivated worldwide and are the most widely grown species in the genus Malus. The tree originated in Central Asia, where its wild ancestor, Malus sieversii, is still found today. '
+  },
+  {
+    id:'35',
+    image:'https://i.ibb.co/9ymbkcd/apricot.jpg',
+    name:'apricot'
+  },
+  {
+    id:'33',
+    image:'https://i.ibb.co/ZKhV7Bg/blueberry.jpg',
+    name:'blueberry'
+  },
+  {
+    id:'9',
+    image:'https://i.ibb.co/jvWMQwR/cherry.jpg',
+    name:'cherry'
+  },
+  {
+    id:'60',
+    image:'https://i.ibb.co/vh61xfz/durian.jpg',
+    name:'durian'
+  },
+  {
+    id:'47',
+    image:'https://i.ibb.co/rtqmT2t/grapes.jpg',
+    name:'grapes'
+  },
+  {
+    id:'37',
+    image:'https://i.ibb.co/fM763jX/guava.jpg',
+    name:'guava'
+  },
+  {
+    id:'26',
+    image:'https://i.ibb.co/hRQJ78m/lemon.jpg',
+    name:'lemon'
+  },
+  {
+    id:'44',
+    image:'https://i.ibb.co/fQgq712/lime.jpg',
+    name:'lime'
+  },
+  {
+    id:'27',
+    image:'https://i.ibb.co/W6QYY5w/mango2.jpg',
+    name:'mango',
+    details:'A mango is an edible stone fruit produced by the tropical tree Mangifera indica which is believed to have originated from the region between northwestern Myanmar, Bangladesh, and northeastern India'
+  },
+  {
+    id:'41',
+    image:'https://i.ibb.co/VCh8095/melon.jpg',
+    name:'melon'
+  },
+  {
+    id:'2',
+    image:'https://i.ibb.co/XyFsMHD/orange.jpg"',
+    name:'orange'
+  },
+  {
+    id:'12',
+    image:'https://i.ibb.co/QDf2b62/papaya.jpg"',
+    name:'papaya'
+  },
+  {
+    id:'4',
+    image:'https://i.ibb.co/ydzQjVp/pear.jpg',
+    name:'pear'
+  },
+  {
+    id:'52',
+    image:'https://i.ibb.co/TPvh8T9/persimmon.jpg',
+    name:'Persimmon'
+  },
+  {
+    id:'10',
+    image:'https://i.ibb.co/Mp3w0DD/pineapple.jpg"',
+    name:'Pineapple'
+  },
+  {
+    id:'23',
+    image:'https://i.ibb.co/zmDfLP2/raspberry.jpg',
+    name:'Raspberry'
+  },
+  {
+    id:'3',
+    image:'https://i.ibb.co/FBLT6R7/strawberry.jpg',
+    name:'Strawberry'
+  },
+  {
+    id:'5',
+    image:'https://i.ibb.co/YB9tbBT/tomato.jpg',
+    name:'tomato'
+  },
+  {
+    id:'25',
+    image:'https://i.ibb.co/qJSpRRm/watermelon.jpg',
+    name:'watermelon'
+  },
+  
+  
+]
+
+
+
